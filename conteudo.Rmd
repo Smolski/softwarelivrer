@@ -1,0 +1,91 @@
+---
+title: "Conteúdo"
+output:  
+  html_document:  
+    toc: yes  
+    toc_float: yes 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#**Tópicos – Curso Básico**
+##MÓDULO 1 – INTRODUÇÃO AO R
+
+1.1 Download e instalação do R e RStudio
+
+1.2 Interface do RStudio: comando de linha, edição de scripts, variáveis e histórico, gráfico e ajuda
+
+1.3 Importando dados pelo comando de linha e pela interface gráfica
+
+1.4 Uso básico do comando de linha: criação e inspeção de objetos no R
+
+1.5 Operações simples no comando de linha
+
+1.6 Acesso a vetores e elementos em matrizes de dados
+
+1.7 Reformatar dados
+
+1.8 Filtrar casos e variáveis
+
+1.9 Combinar conjuntos de dados diferentes
+
+1.10 Manipulação de bancos de dados
+
+##MÓDULO 2 – ESTATÍSTICA DESCRITIVA
+
+2.1 Tabelas univariadas e bivariadas
+
+2.2 Gráficos univariados e bivariados
+
+2.3 Medidas de posição
+
+2.4 Medidas de dispersão
+
+2.5 Medidas separatrizes
+
+##MÓDULO 3 – INFERÊNCIA ESTATÍSTICA
+
+3.1 Intervalo de confiança
+
+3.2 Teste t para comparação entre duas médias
+
+3.2 Teste Z para comparação entre duas proporções
+
+##MÓDULO 4 – TESTE QUI-QUADRADO
+
+4.1 Para uma variável (aderência)
+
+4.2 Para duas variáveis (associação)
+
+4.3Medidas de magnitude
+
+##MÓDULO 5 – MODELOS DE REGRESSÃO
+
+5.1 Correlação entre duas variáveis
+
+5.2 Regressão simples e relação com coeficiente de correlação
+
+5.3 Noções de regressão multivariada:covariáveis categoriais, covariáveis contínuas e interações
+
+5.4 Noções de ANOVA e ANCOVA
+
+5.5 Noções de análises diagnósticas: resíduos, pontos influentes
+
+#**Tópicos – Curso Avançado**
+#Módulo 6 – Modelos de regressão múltipla
+
+- Revisão de modelos lineares simples
+- Interpretação de coeficientes de regressão
+- Variáveis qualitativas e codificação dummy
+- Interação entre preditores
+- Visualização gráfica dos modelos
+- Incerteza e teste de hipóteses com modelos lineares
+
+##Módulo 7 – Delineamentos experimentais (DIC, DBC, DF)
+
+##Módulo 8 – Análise fatorial
+
+##Módulo 9 – Modelos lineares generalizados
+
+##Módulo 10 – Introdução à TRI (Modelo de Rasch e 2PL)

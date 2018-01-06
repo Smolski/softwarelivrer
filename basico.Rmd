@@ -1,0 +1,36 @@
+---
+title: "Materiais para download - Curso Básico"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Material para o Módulo I – Introdução ao R**
+
+Roteiro Aula1
+Banco de dados
+Laboratório Módulo I
+Base de dados OMS para laboratório
+
+**Material para o Módulo II – Estatística descritiva**
+
+Roteiro Aula Estatística Descritiva
+Pesquisa_DADOS
+
+**Material para o Módulo III – Estatística inferencial**
+
+Roteiro Aula 3
+Exemplo – Árvores
+
+**Material para o Módulo IV – Teste de Qui-quadrado**
+
+Roteiro Aula 4
+
+**Material para o Módulo V – Modelos de regressão**
+
+Roteiro Aula 5
+Material disponibilizado pela Profa. Monize Visentini
+Banco de Dados
+Questionário tabulação

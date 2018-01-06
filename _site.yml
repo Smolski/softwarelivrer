@@ -1,0 +1,45 @@
+name: "R"                                  # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "PROJETO DE EXTENSÃO - UFFS"                               # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "O Curso"
+      icon: fa-file-pdf-o
+      href: curso.html
+    - text: "Conteúdo"
+      icon: fa-file-archive-o
+      href: conteudo.html
+    - text: "Cronograma"
+      icon: fa-calendar
+      href: cronograma.html      
+    - text: "Downloads"
+      icon: fa-download
+      menu:
+        - text: "Curso Básico"
+          href: downbasico.html
+        - text: "Curso Avançado"
+          href: downavancado.html 
+    - text: "Links"
+      icon: fa-link
+      href: links.html       
+    - text: "Atividades"
+      icon: fa-bookmark
+      href: atividades.html       
+  right:
+
+    - text: "Equipe"
+      icon: fa-users
+      href: equipe.html                     # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/Smolski/softwarelivrer         # CHANGE HERE 
+
+
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
