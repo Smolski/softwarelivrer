@@ -20,9 +20,9 @@ navbar:
       icon: fa-download
       menu:
         - text: "Curso Básico"
-          href: downbasico.html
+          href: basico.html
         - text: "Curso Avançado"
-          href: downavancado.html 
+          href: avancado.html 
     - text: "Links"
       icon: fa-link
       href: links.html       

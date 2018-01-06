@@ -73,7 +73,7 @@ knitr::opts_chunk$set(echo = TRUE)
 5.5 Noções de análises diagnósticas: resíduos, pontos influentes
 
 #**Tópicos – Curso Avançado**
-#Módulo 6 – Modelos de regressão múltipla
+#MÓDULO 6 – Modelos de regressão múltipla
 
 - Revisão de modelos lineares simples
 - Interpretação de coeficientes de regressão
@@ -82,10 +82,10 @@ knitr::opts_chunk$set(echo = TRUE)
 - Visualização gráfica dos modelos
 - Incerteza e teste de hipóteses com modelos lineares
 
-##Módulo 7 – Delineamentos experimentais (DIC, DBC, DF)
+##MÓDULO 7 – Delineamentos experimentais (DIC, DBC, DF)
 
-##Módulo 8 – Análise fatorial
+##MÓDULO 8 – Análise fatorial
 
-##Módulo 9 – Modelos lineares generalizados
+##MÓDULO 9 – Modelos lineares generalizados
 
-##Módulo 10 – Introdução à TRI (Modelo de Rasch e 2PL)
+##MÓDULO 10 – Introdução à TRI (Modelo de Rasch e 2PL)
