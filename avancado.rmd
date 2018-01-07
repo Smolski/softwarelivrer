@@ -1,0 +1,37 @@
+---
+title: "Materiais para downloa - Curso Avançado"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Módulo I – Delineamentos experimentais**
+
+Roteiro Aula 1
+DBC
+DIC
+**Módulo II – Análise Fatorial**
+
+Roteiro Aula 2
+creme_dental_Exemplo1
+
+**Módulo III – Regressão Logística**
+
+Roteiro Aula 3 
+
+**Módulo IV – Regressão Múltipla**
+
+Roteiro Aula 4
+monica
+arvore2
+
+**Módulo V – Introdução aos recursos de texto R**
+
+Roteiro Aula 5
+Exemplo de modelo de formatação
+Normatização referências
+rmarkdown-cheatsheet 
+rmarkdown-cheatsheet-2.0
+rmarkdown-reference
