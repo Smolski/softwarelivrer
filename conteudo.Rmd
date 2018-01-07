@@ -75,12 +75,12 @@ knitr::opts_chunk$set(echo = TRUE)
 #**Tópicos – Curso Avançado**
 ##MÓDULO 6 – MODELOS DE REGRESSÃO MÚLTIPLA
 
-- Revisão de modelos lineares simples
-- Interpretação de coeficientes de regressão
-- Variáveis qualitativas e codificação dummy
-- Interação entre preditores
-- Visualização gráfica dos modelos
-- Incerteza e teste de hipóteses com modelos lineares
+6.1 Revisão de modelos lineares simples
+6.2 Interpretação de coeficientes de regressão
+6.3 Variáveis qualitativas e codificação dummy
+6.4 Interação entre preditores
+6.5 Visualização gráfica dos modelos
+6.6 Incerteza e teste de hipóteses com modelos lineares
 
 ##MÓDULO 7 – DELINEAMENTOS EXPERIMENTAIS (DIC, DBC, DF)
 
