@@ -1,0 +1,39 @@
+---
+title: "Cronograma"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Curso Básico
+
+**Módulo 1 – Introdução ao R**
+25 de maio – Quinta-feira
+
+**Módulo 2 – Estatística descritiva**
+01 de junho – Quinta-feira
+
+**Módulo 3 – Inferência estatística**
+05 de junho – Segunda-feira
+
+**Módulo 4 – Teste qui-quadrado**
+08 de junho – Quinta-feira
+
+**Módulo 5 – Modelos de regressão**
+ 12 de junho – Segunda-feira
+ 
+#Curso Avançado
+
+**Módulo 1 – Modelos de regressão múltipla**
+
+**Módulo 2 – Delineamentos experimentais**
+
+**Módulo 3 – Análise fatorial**
+
+**Módulo 4 – Modelos lineares generalizados**
+
+**Módulo 5 – Introdução à TRI**
+ 
+ 

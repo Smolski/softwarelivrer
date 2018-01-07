@@ -1,0 +1,20 @@
+---
+title: "Inscrições"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Inscrições 2017.2
+
+Para realizar a sua inscrição no(s) módulo(s) Básico e/ou Avançado, vá até o endereço Inscrição 2017.2, preencha adequadamente os dados requeridos e aguarde a confirmação de sua inscrição.
+
+[Inscrições 2017.2](https://docs.google.com/forms/d/e/1FAIpQLSdRVhtAU5BpORmxIfOjDe5eERBJkSxO1ZY42nF7jc-s2mHdvw/viewform?usp=sf_link)
+
+**PERÍODO DE INSCRIÇÃO: 18 a 27 de setembro de 2017**
+
+**Local das Atividades**
+
+Capacitação: Bloco A – Sala 407 UFFS – Campus Cerro Largo.

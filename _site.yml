@@ -28,7 +28,10 @@ navbar:
       href: links.html       
     - text: "Atividades"
       icon: fa-bookmark
-      href: atividades.html       
+      href: atividades.html  
+    - text: "Inscrições"
+      icon: fa-pencil
+      href: inscricoes.html  
   right:
 
     - text: "Equipe"
