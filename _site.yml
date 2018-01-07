@@ -1,48 +1,53 @@
-name: "R"                                  # CHANGE HERE 
-output_dir: "."
+name: R
+output_dir: '.'
 navbar:
-  title: "PROJETO DE EXTENSÃO - UFFS"                               # CHANGE HERE 
+  title: PROJETO DE EXTENSÃO - UFFS
   type: inverse
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    - text: "Informações"
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Informações
+    icon: fa-file-pdf-o
+    menu:
+    - text: O Curso
       icon: fa-file-pdf-o
-      menu:
-        - text: "O Curso"
-          icon: fa-file-pdf-o
-          href: curso.html
-        - text: "Conteúdo"
-          icon: fa-file-archive-o
-          href: conteudo.html
-    - text: "Cronograma"
-      icon: fa-calendar
-      href: cronograma.html      
-    - text: "Downloads"
-      icon: fa-download
-      menu:
-        - text: "Curso Básico"
-          href: basico.html
-        - text: "Curso Avançado"
-          href: avancado.html 
-        - text: "Atividades"
-          icon: fa-bookmark
-          href: atividades.html 
-    - text: "Links"
-      icon: fa-link
-      href: links.html       
-    - text: "Inscrições"
-      icon: fa-pencil
-      href: inscricoes.html  
+      href: curso.html
+    - text: Conteúdo
+      icon: fa-file-archive-o
+      href: conteudo.html
+  - text: Cronograma
+    icon: fa-calendar
+    href: cronograma.html
+  - text: Downloads
+    icon: fa-download
+    menu:
+    - text: Curso Básico
+      href: basico.html
+    - text: Curso Avançado
+      href: avancado.html
+    - text: Atividades
+      icon: fa-bookmark
+      href: atividades.html
+  - text: Links
+    icon: fa-link
+    href: links.html
+  - text: Inscrições
+    icon: fa-pencil
+    href: inscricoes.html
   right:
-    - text: "Equipe"
-      icon: fa-users
-      href: equipe.html                     # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/Smolski/softwarelivrer         # CHANGE HERE 
+  - text: Equipe
+    icon: fa-users
+    href: equipe.html
+  - text: GitHub
+    icon: fa-github
+    href: https://github.com/Smolski/softwarelivrer
 output:
   html_document:
     theme: yeti
     highlight: textmate
+    includes:
+      in_header: analytcs.html
+    lib_dir: site_libs
+    self_contained: no
+
