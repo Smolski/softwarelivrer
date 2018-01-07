@@ -73,7 +73,7 @@ knitr::opts_chunk$set(echo = TRUE)
 5.5 Noções de análises diagnósticas: resíduos, pontos influentes
 
 #**Tópicos – Curso Avançado**
-#MÓDULO 6 – Modelos de regressão múltipla
+##MÓDULO 6 – Modelos de regressão múltipla
 
 - Revisão de modelos lineares simples
 - Interpretação de coeficientes de regressão
