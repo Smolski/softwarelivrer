@@ -1,5 +1,5 @@
 ---
-title: "Materiais para downloa - Curso Avançado"
+title: "Materiais para download - Curso Avançado"
 output: html_document
 ---
 
