@@ -47,7 +47,5 @@ output:
     theme: yeti
     highlight: textmate
     includes:
-      in_header: analytcs.html
-    lib_dir: site_libs
-    self_contained: no
+      in_header: google-analytics.js
 
