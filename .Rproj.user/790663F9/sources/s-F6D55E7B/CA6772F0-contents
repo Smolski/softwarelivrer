@@ -7,15 +7,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Objetivo Geral:
+# Objetivo Geral:
 
 O objetivo principal do projeto é atender alunos, bolsistas, comunidade interna e externa através de cursos de capacitação na análise de dados primários ou secundários utilizando um software livre de análise estatística, especificamente o software R. Ainda, objetiva-se a troca de experiências vinculando dados provindos de diferentes pesquisas dos participantes.
 
-#Material didático:
+# Material didático:
 
 – formato digital
 
-#Avaliação:
+# Avaliação:
 
 Se dará de três formas:
 
@@ -25,10 +25,10 @@ Se dará de três formas:
 
 – avaliação do curso, do projeto e autoavaliação.
 
-#Certificação:
+# Certificação:
 
 Certificação para participantes dos cursos executados no projeto, contabilizando 40h para aqueles que participarem de no mínimo 75% das atividades de cada curso.
 
-#Público:
+# Público:
 
 Com conhecimento de Estatística Básica.
