@@ -23,9 +23,9 @@ navbar:
     icon: fa-download
     menu:
     - text: Curso Básico
-      href: basico.html
+      href: 
     - text: Curso Avançado
-      href: avancado.html
+      href: 
     - text: Atividades
       icon: fa-bookmark
       href: atividades.html
