@@ -5,15 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "288671262",
     "id" : "63B7CB8A",
-    "lastKnownWriteTime" : 1529118054,
-    "last_content_update" : 1529118054712,
+    "lastKnownWriteTime" : 1529164140,
+    "last_content_update" : 1529164140087,
     "path" : "D:/Github/softwarelivrer/equipe.Rmd",
     "project_path" : "equipe.Rmd",
     "properties" : {
-        "cursorPosition" : "21,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "30,27",
+        "last_setup_crc32" : "32C28F81bb338d19",
+        "scrollLine" : "17"
     },
     "relative_order" : 4,
     "source_on_save" : false,

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529163446615.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8D7DA71E",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1529163446615,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B265A1EA",
+        "caption" : "equipe",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=equipe&cache_key=B265A1EA",
+        "displayedObservations" : 1,
+        "environment" : "",
+        "object" : "equipe",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 3
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
