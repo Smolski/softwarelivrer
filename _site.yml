@@ -18,7 +18,7 @@ navbar:
       href: conteudo.html
     - text: Links
       icon: fa-link
-      href: links.html  
+      href: links.html
   - text: Cronograma
     icon: fa-calendar
     href: cronograma.html
@@ -26,9 +26,9 @@ navbar:
     icon: fa-download
     menu:
     - text: Curso Básico
-      href: 
+      href: ~
     - text: Curso Avançado
-      href: 
+      href: ~
     - text: Atividades
       icon: fa-bookmark
       href: atividades.html
@@ -48,4 +48,6 @@ output:
     highlight: textmate
     includes:
       in_header: google-analytics.js
+    lib_dir: site_libs
+    self_contained: no
 
