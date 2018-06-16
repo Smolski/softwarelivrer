@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529117062604.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B5B3C0FB",
+    "lastKnownWriteTime" : 1528330886,
+    "last_content_update" : 1528330886,
+    "path" : "D:/Educ/Software_R/Manuais/Livro_R1/livro_r5.Rnw",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "570,611",
+        "scrollLine" : "560"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sweave"
+}

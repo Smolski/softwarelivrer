@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1595081235",
     "id" : "EAC5D3D2",
-    "lastKnownWriteTime" : 1520897607,
-    "last_content_update" : 1520897607,
+    "lastKnownWriteTime" : 1529116058,
+    "last_content_update" : 1529116058069,
     "path" : "D:/Github/softwarelivrer/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "10,3",
-        "scrollLine" : "0"
+        "cursorPosition" : "17,101",
+        "scrollLine" : "18"
     },
     "relative_order" : 1,
     "source_on_save" : false,

@@ -7,30 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Cordenadora: **
-
-Prof. Iara Endruweit Battisti — (<iara.battisti@uffs.edu.br>)
-
-**Colaboradores:**
-
-Profa. Denize Reis
-
-Prof. Erikson Kaszubowski
-
-Prof. Reneo Prediger
-
-Profa. Tatiane Chassot
-
-Me. Felipe M. Smolski
+|**Nome**|**E-mail**|**Currículo Lattes**|
+|:----|:----|:----|
+|Prof. Iara Endruweit Battisti (**Coordenadora**)|<iara.battisti@uffs.edu.br>|<http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4798297H5>|
+|Profa. Denize Ivete Reis|<denizeir@uffs.edu.br>|<http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4772840Z6>|
+|Prof. Erikson Kaszubowski|<erikson84@yahoo.com.br>|<http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4744198A1>|
+|Prof. Reneo Pedro Prediger|<reneo@unijui.tche.br>|<http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4727608J2>|
+|Profa. Tatiane Chassot|<tatianechassot@uffs.edu.br>|<http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4188948P3>|
+|Me. Felipe M. Smolski|<felipesmolski@hotmail.com>|<http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8279859Z3>|
+|Letícia Slodkowski (*Bolsista*)|<leticiaslodkowski@homail.com>|
+|Jaíne Frank (*Voluntária*)|||
+|Jaqueline Caye (*Voluntária*)|||
 
 
-**Bolsista:**
 
-Letícia Slodkowski - (<leticiaslodkowski@homail.com>)
-
-
-**Voluntárias:**
-
-Jaíne Frank
-
-Jaqueline Caye

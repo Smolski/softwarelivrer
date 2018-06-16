@@ -17,6 +17,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 O objetivo principal do projeto é atender alunos, bolsistas, comunidade interna e externa através de cursos de capacitação na análise de dados primários ou secundários utilizando um software livre de análise estatística, especificamente o software R. Ainda, objetiva-se a troca de experiências vinculando dados provindos de diferentes pesquisas dos participantes.
 
+![](logo.png)
+
 ![](RStudio.png)
 
 
