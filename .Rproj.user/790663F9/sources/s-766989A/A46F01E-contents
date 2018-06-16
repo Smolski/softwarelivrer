@@ -39,9 +39,6 @@ navbar:
   - text: Equipe
     icon: fa-users
     href: equipe.html
-  - text: GitHub
-    icon: fa-github
-    href: https://github.com/Smolski/softwarelivrer
 output:
   html_document:
     theme: flatly
