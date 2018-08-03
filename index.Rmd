@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Início"
 output:  
   html_document:  
     toc: no  
@@ -21,7 +21,7 @@ O objetivo principal do projeto é atender alunos, bolsistas, comunidade interna
 
 
 
-
+[Incrição Curso 2018 - 30 vagas](https://docs.google.com/forms/d/1kyEx0OV1L7PhsTOsCjaMz1dmTv3zJ4eXCrXdSyXYrKg/prefill)
 
 
 <!--
@@ -31,7 +31,9 @@ O formulário de avaliação do curso básico, edição 2017.2, está disponíve
 
 [Avaliação Curso Básico 2017.2](https://docs.google.com/forms/d/1M2nUtu-pAe2471H-hHs2HyIFdYgJPK0NDXNnLcgSUUo)
 -->
-
+<!--
 [Demonstra interesse no curso?](https://docs.google.com/forms/d/e/1FAIpQLSdPGJINhPg7EozUzzLBt4iKWFDGLgE0_osokGX7L2K3ygtpUA/viewform?usp=sf_link)
+-->
+
 
 

@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "531631627",
+    "hash" : "313847505",
     "id" : "C2502DCC",
-    "lastKnownWriteTime" : 1528937361,
-    "last_content_update" : 1528937361248,
+    "lastKnownWriteTime" : 1533261421,
+    "last_content_update" : 1533261421265,
     "path" : "D:/Github/softwarelivrer/inscricoes.Rmd",
     "project_path" : "inscricoes.Rmd",
     "properties" : {
-        "cursorPosition" : "9,2",
-        "scrollLine" : "0"
+        "cursorPosition" : "15,32",
+        "scrollLine" : "7"
     },
     "relative_order" : 9,
     "source_on_save" : false,
