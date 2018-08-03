@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Curso Básico
+## Curso Básico
 
 22/08/2018 – Indrodução ao R – Felipe
 
@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 05/09/2018 – Modelos de regressão - Iara
  
-# Curso Avançado
+## Curso Avançado
 
 
 12/09/2018 – Experimentação - Tatiane
