@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Curso Básico
 
-22/08/2018 – Indrodução ao R – Felipe
+22/08/2018 – Introdução ao R – Felipe
 
 23/08/2018 – Estatística Descritiva – Denize
 

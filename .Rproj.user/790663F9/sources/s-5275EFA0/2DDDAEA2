@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2714573436",
+    "hash" : "251804088",
     "id" : "2DDDAEA2",
-    "lastKnownWriteTime" : 1515284739,
-    "last_content_update" : 1515284739,
+    "lastKnownWriteTime" : 1534209310,
+    "last_content_update" : 1534209310469,
     "path" : "D:/Github/softwarelivrer/atividades.Rmd",
     "project_path" : "atividades.Rmd",
     "properties" : {
+        "cursorPosition" : "21,60",
+        "scrollLine" : "7"
     },
     "relative_order" : 2,
     "source_on_save" : false,
