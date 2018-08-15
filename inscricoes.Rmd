@@ -11,11 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Para realizar a sua inscrição no(s) módulo(s) Básico e/ou Avançado, clique no link abaixo, preencha adequadamente os dados requeridos e aguarde a confirmação de sua inscrição.
 
-**Incrição Curso 2018 - 30 vagas** - Em breve!
-
 <!--
-[Incrição Curso 2018 - 30 vagas](https://docs.google.com/forms/d/1kyEx0OV1L7PhsTOsCjaMz1dmTv3zJ4eXCrXdSyXYrKg/prefill)
+**Incrição Curso 2018 - 30 vagas** - Em breve!
 -->
+
+[Incrição Curso 2018 - 30 vagas](https://docs.google.com/forms/d/1kyEx0OV1L7PhsTOsCjaMz1dmTv3zJ4eXCrXdSyXYrKg/prefill)
+
 
 **PERÍODO DE INSCRIÇÃO: 15 a 17 de agosto de 2018**
 

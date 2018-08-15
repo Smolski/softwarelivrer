@@ -34,14 +34,24 @@ Exercício 5: [baixar]() - Link de envio da atividade: [acessar]()
 ## Curso Avançado
 
 
-12/09/2018 – Experimentação - Tatiane
+- **<!--12/09/2018-->Experimentação - Tatiane (envio até 19/09/2018)**
 
-13/09/2018 – Análise fatorial – Denize
+Exercício 6: [baixar]() - Link de envio da atividade: [acessar]()
 
-19/09/2018 - Modelos de regressão múltipla – Iara
+- **<!--13/09/2018-->Análise fatorial – Denize (envio até 20/09/2018)**
 
-26/09/2018 – Modelos de regressão logística – Felipe
+Exercício 7: [baixar]() - Link de envio da atividade: [acessar]()
 
-27/09/2018 - RMarkdown - Letícia
+- **<!--19/09/2018-->Modelos de regressão múltipla – Iara (envio até 26/09/2018)**
+
+Exercício 8: [baixar]() - Link de envio da atividade: [acessar]()
+
+- **<!--26/09/2018--> – Modelos de regressão logística – Felipe (envio até 03/10/2018)**
+
+Exercício 9: [baixar]() - Link de envio da atividade: [acessar]()
+
+- **<!--27/09/2018-->RMarkdown - Letícia (envio até 04/10/2018)**
+
+Exercício 10: [baixar]() - Link de envio da atividade: [acessar]()
 
 
