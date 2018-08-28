@@ -18,7 +18,7 @@ Exercício 1: [baixar](roteiro_atividade-1_2018-2.docx) - Dados: [arvores](arvor
 
 - **Estatística Descritiva – Denize (envio até 30/08/2018)**
 
-Exercício 2: [baixar1](os2_lab_01A_port) [baixar2](Atividades_para_entregar.docx) - Link de envio da atividade: [acessar](https://docs.google.com/forms/d/e/1FAIpQLSfhXlR_3008yldRnCjmKmszUO9dghc81AoaSUB1_lt19QPNpg/viewform)
+Exercício 2: [baixar1](os2_lab_01A_port.pdf) [baixar2](Atividades_para_entregar.docx) - Link de envio da atividade: [acessar](https://docs.google.com/forms/d/e/1FAIpQLSfhXlR_3008yldRnCjmKmszUO9dghc81AoaSUB1_lt19QPNpg/viewform)
 
 
 - **Inferência Estatística – Tatiane (envio até 05/09/2018)**
