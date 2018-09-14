@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536411482617.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FE5EB8AC",
+    "lastKnownWriteTime" : 3419473787924512768,
+    "last_content_update" : 1536411482617,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9A07C568",
+        "caption" : "cdc",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cdc&cache_key=9A07C568",
+        "displayedObservations" : 20000,
+        "environment" : "",
+        "object" : "cdc",
+        "preview" : 0,
+        "totalObservations" : 20000,
+        "variables" : 9
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
