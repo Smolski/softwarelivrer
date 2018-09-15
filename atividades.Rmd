@@ -42,7 +42,7 @@ Exercício 6: [baixar]() - Link de envio da atividade: [acessar](https://docs.go
 
 - **<!--13/09/2018-->Análise fatorial – Denize (envio até 20/09/2018)**
 
-Exercício 7: [baixar]() - Dados: [baixar](Creme_dental_curso.xlsx) - Link de envio da atividade: [acessar](https://docs.google.com/forms/d/e/1FAIpQLSdWP2NrvN4YmJpumkk2j14F-j4yEmiA6MYs1cKUR0ELctqRCQ/viewform)
+Exercício 7: [baixar](Análise_Fatorial.docx) - Dados: [baixar](Creme_dental_curso.xlsx) - Link de envio da atividade: [acessar](https://docs.google.com/forms/d/e/1FAIpQLSdWP2NrvN4YmJpumkk2j14F-j4yEmiA6MYs1cKUR0ELctqRCQ/viewform)
 
 - **<!--19/09/2018-->Modelos de regressão múltipla – Iara (envio até 26/09/2018)**
 
