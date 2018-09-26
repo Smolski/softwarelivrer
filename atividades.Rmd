@@ -50,7 +50,7 @@ Exercício 8: [baixar](Exercícios_encontro_3_módulo_avançado.docx) - Dados: [
 
 - **<!--26/09/2018--> – Modelos de regressão logística – Felipe (envio até 03/10/2018)**
 
-Exercício 9: [baixar]() - Link de envio da atividade: [acessar](https://docs.google.com/forms/d/e/1FAIpQLSd6zTvEVpjlyD498ePIE8_swcSiUFSIYCBUdRwRaeDQO3pElw/viewform)
+Exercício 9: [baixar](perguntas.docx) - Link de envio da atividade: [acessar](https://docs.google.com/forms/d/e/1FAIpQLSd6zTvEVpjlyD498ePIE8_swcSiUFSIYCBUdRwRaeDQO3pElw/viewform)
 
 - **<!--27/09/2018-->RMarkdown - Letícia (envio até 04/10/2018)**
 
