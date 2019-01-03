@@ -1,0 +1,43 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Seguem as bases de dados dos exercícios que constam ao final de cada capítulo do livro.
+
+## Livro **Software R: Análise estatística de dados utilizando um programa livre**
+
+### Cap 1 - Primeiros Passos com o R
+
+Dados: [arvores](arvores.xlsx), [bancodedados1](bancodedados11.xlsx)
+
+
+### Cap 2 - Estatística Descritiva
+
+Dados:  [baixar]()
+
+
+### Cap 3 - Estatística Inferencial
+
+Dados: [baixar]()
+
+### Cap 4 - Teste de Qui-Quadrado 
+
+Dados: [baixar]()
+
+### Cap 5 - Modelos de Regressão
+
+Dados: [peixes](peixes1.xls)
+ 
+### Cap 6 - RMarkdown
+
+Dados: [baixar]()
+
+
+
+
+
