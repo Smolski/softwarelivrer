@@ -1,5 +1,5 @@
 ---
-title: ""
+title: " "
 output: html_document
 ---
 
@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Seguem as bases de dados dos exercícios que constam ao final de cada capítulo do livro.
 
-## Livro **Software R: Análise estatística de dados utilizando um programa livre**
+## Livro "**Software R: Análise estatística de dados utilizando um programa livre**"
 
 ### Cap 1 - Primeiros Passos com o R
 
