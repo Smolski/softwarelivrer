@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "682932009",
     "id" : "804035C5",
-    "lastKnownWriteTime" : 1546557195,
-    "last_content_update" : 1546557195304,
+    "lastKnownWriteTime" : 1546557696,
+    "last_content_update" : 1546557696271,
     "path" : "D:/Github/softwarelivrer/livro.Rmd",
     "project_path" : "livro.Rmd",
     "properties" : {
-        "cursorPosition" : "1,9",
-        "scrollLine" : "0"
+        "cursorPosition" : "20,18",
+        "scrollLine" : "8"
     },
     "relative_order" : 3,
     "source_on_save" : false,

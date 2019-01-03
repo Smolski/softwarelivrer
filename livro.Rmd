@@ -31,7 +31,7 @@ Dados: [baixar]()
 
 ### Cap 5 - Modelos de Regressão
 
-Dados: [peixes](peixes1.xls)
+Dados: [peixes1](peixes1.xls)
  
 ### Cap 6 - RMarkdown
 
