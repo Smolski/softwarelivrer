@@ -18,7 +18,7 @@ Dados: [arvores](arvores.xlsx), [bancodedados1](bancodedados11.xlsx)
 
 ### Cap 2 - Estatística Descritiva
 
-Dados:  [baixar]()
+Dados:  [arvores](arvores.xlsx)
 
 
 ### Cap 3 - Estatística Inferencial
