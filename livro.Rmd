@@ -18,7 +18,7 @@ Dados: [arvores](arvores.xlsx), [bancodedados1](bancodedados11.xlsx)
 
 ### Cap 2 - Estatística Descritiva
 
-Dados:  [arvores](arvores.xlsx)
+Dados:  [arvores](arvores.xlsx), [pesquisa\_dados](pesquisa_dados.xlsx)
 
 
 ### Cap 3 - Estatística Inferencial
@@ -29,7 +29,7 @@ Dados: [baixar]()
 
 Dados: [baixar]()
 
-### Cap 5 - Modelos de Regressão
+### Cap 5 - Modelos de Regressão Linear Simples
 
 Dados: [peixes1](peixes1.xls)
  
