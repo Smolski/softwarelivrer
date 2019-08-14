@@ -15,21 +15,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 10/04/2019 – Inferência Estatística – Tatiane
 
-11/04/2019 – Teste de qui-quadrado – Denize/Tati
+11/04/2019 – Teste de Qui-quadrado – Denize/Tati
 
-17/04/2019 – Modelos de regressão - Iara
+17/04/2019 – Modelos de Regressão - Iara
  
 ## Curso Avançado
 
 
-A DEFINIR – Experimentação - Tatiane
+27/08/2019 – Delineamentos Experimentais - Tatiane
 
-A DEFINIR – Análise fatorial – Denize
+28/08/2019 – Modelos de Regressão Logística – Felipe
 
-A DEFINIR - Modelos de regressão múltipla – Iara
+29/08/2019 - Ajuste de Parâmetros em Funções não Lineares - Tiago
 
-A DEFINIR – Modelos de regressão logística – Felipe
+03/09/2019 - RMarkdown - Letícia
 
-A DEFINIR - RMarkdown - Letícia
+04/09/2019 - Metodologia de Superfície Resposta - Bruna, Jaqueline e Mônica
+
+05/09/2019 - Análise Fatorial - Denize
  
  
