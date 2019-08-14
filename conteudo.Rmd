@@ -75,27 +75,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **Tópicos – Curso Avançado**
 
-## MÓDULO 6 - EXPERIMENTAÇÃO
+## MÓDULO 6 – Delineamentos Experimentais
 
-## MÓDULO 7 - ANÁLISE FATORIAL
+## MÓDULO 7 – Modelos de Regressão Logística
 
+## MÓDULO 8 - Ajuste de Parâmetros em Funções não Lineares
 
-## MÓDULO 8 - MODELOS DE REGRESSÃO MÚLTIPLA
+## MÓDULO 9 - RMarkdown
 
-- Revisão de modelos lineares simples
+## MÓDULO 10 - Metodologia de Superfície Resposta
 
-- Interpretação de coeficientes de regressão
-
-- Variáveis qualitativas e codificação dummy
-
-- Interação entre preditores
-
-- Visualização gráfica dos modelos
-
-- Incerteza e teste de hipóteses com modelos lineares
-
-## MÓDULO 9 - MODELOS DE REGRESSÃO LOGÍSTICA
-
-## MÓDULO 10 - RMARKDOWN
+## MÓDULO 11  - Análise Fatorial
 
 
