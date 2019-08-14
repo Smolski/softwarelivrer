@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Inscrições 2019
 
-Para realizar a sua inscrição no módulo Básico, clique no link abaixo, preencha adequadamente os dados requeridos e aguarde a confirmação de sua inscrição.
+Para realizar a sua inscrição no módulo Avançado, clique no link abaixo, preencha adequadamente os dados requeridos e aguarde a confirmação de sua inscrição.
 
 <!--
 **Incrição Curso 2018 - 30 vagas** - Em breve!
