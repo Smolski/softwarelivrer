@@ -28,7 +28,7 @@ navbar:
     - text: Curso Básico
       href: https://smolski.github.io/livror/
     - text: Curso Avançado
-      href: ~
+      href: https://smolski.github.io/livroavancado/
     - text: Atividades
       icon: fa-bookmark
       href: atividades.html
