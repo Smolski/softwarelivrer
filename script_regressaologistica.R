@@ -45,7 +45,6 @@ chd$PRED=predict(m1, newdata=IDADE, type="response")
 ggplot(chd, aes(x=AGE, y=PRED)) + 
   geom_point()
 
-
 ## Estimando a razão de chances
 library(mfx)
 logitor(CHD~AGE,data = chd)
@@ -71,10 +70,7 @@ media
 library(caret)
 chd$pdata <- as.factor(
   ifelse(
-    predict(m1, 
-            newdata = chd, 
-            type = "response")
-    >0.5,"1","0"))
+    chd$PRED>0.5,"1","0"))
 
 # Criando a matriz de confusão
 confusionMatrix(chd$pdata, chd$CHD, positive="1")
