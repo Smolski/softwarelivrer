@@ -26,7 +26,7 @@ navbar:
     icon: fa-download
     menu:
     - text: Curso Básico
-      href: https://smolski.github.io/livror/
+      href: http://www.editorafaith.com.br/ebooks/grat/software_r.pdf
     - text: Curso Avançado
       href: https://smolski.github.io/livroavancado/
     - text: Atividades

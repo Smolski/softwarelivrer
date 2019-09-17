@@ -11,6 +11,8 @@ Seguem as bases de dados dos exercícios que constam ao final de cada capítulo 
 
 ## Livro "**Software R: Análise estatística de dados utilizando um programa livre**"
 
+[Livro](http://www.editorafaith.com.br/ebooks/grat/software_r.pdf)
+
 ### Cap 1 - Primeiros Passos com o R
 
 Dados: [arvores](arvores.xlsx), [bancodedados1](bancodedados11.xlsx)

@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -94,7 +95,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -255,18 +255,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -350,7 +338,7 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="https://smolski.github.io/livror/">Curso Básico</a>
+      <a href="http://www.editorafaith.com.br/ebooks/grat/software_r.pdf">Curso Básico</a>
     </li>
     <li>
       <a href="https://smolski.github.io/livroavancado/">Curso Avançado</a>
@@ -403,6 +391,7 @@ $(document).ready(function () {
 <p>Seguem as bases de dados dos exercícios que constam ao final de cada capítulo do livro.</p>
 <div id="livro-software-r-analise-estatistica-de-dados-utilizando-um-programa-livre" class="section level2">
 <h2>Livro “<strong>Software R: Análise estatística de dados utilizando um programa livre</strong>”</h2>
+<p><a href="http://www.editorafaith.com.br/ebooks/grat/software_r.pdf">Livro</a></p>
 <div id="cap-1---primeiros-passos-com-o-r" class="section level3">
 <h3>Cap 1 - Primeiros Passos com o R</h3>
 <p>Dados: <a href="arvores.xlsx">arvores</a>, <a href="bancodedados11.xlsx">bancodedados1</a></p>
@@ -446,6 +435,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
